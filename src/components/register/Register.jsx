@@ -4,7 +4,6 @@ import SocialLogIn from "../logIn/socialLogIn";
 const Register = () => {
   return (
     <div className="my-5 mx-5 md:mx-10 lg:mx-20">
-      {/* <Navbar /> */}
       <div className="flex flex-col items-center">
         <div className="w-full max-w-sm border rounded p-5">
           <h1 className="text-2xl font-bold">Create an account</h1>
