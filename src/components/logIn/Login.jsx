@@ -3,7 +3,7 @@ import SocialLogIn from "./socialLogIn";
 
 const Login = () => {
   return (
-    <div className="my-5 mx-5 md:mx-10 lg:mx-20">
+    <div className="my-5 mx-5 md:mx-10 lg:mx-20 mt-10">
       <div className="flex flex-col items-center">
         <div className="w-full max-w-sm border rounded p-5">
           <h1 className="text-2xl font-bold">Create an account</h1>

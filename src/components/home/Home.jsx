@@ -1,7 +1,9 @@
+import Slider from "../banner/Slider";
+
 const Home = () => {
   return (
     <div>
-      <h1>home</h1>
+      <Slider />
     </div>
   );
 };
